@@ -1,0 +1,35 @@
+.container {
+	width:80%;
+	max-width:1260px;
+	min-width:780px;
+	margin:0 auto;
+	}
+header{
+	text-align:center;
+	padding:30px;
+	width:100%;
+	height:80px;
+	border-style: dotted;
+}
+section{
+	border-style: dotted;
+	width:100%;
+	background-color: gray;
+	width:100%;
+	height:768px;
+	float:left;
+	font-size:20px;
+	text-align:center;
+}
+article{
+	float:left;
+	border-style: dotted;
+	margin:0 auto;
+}
+table, tr, th{
+	border:1px solid black;
+	text-align: center;
+}
+#style{
+	text-align: center;
+}
